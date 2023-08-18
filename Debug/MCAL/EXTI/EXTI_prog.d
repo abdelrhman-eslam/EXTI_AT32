@@ -1,0 +1,11 @@
+MCAL/EXTI/EXTI_prog.o MCAL/EXTI/EXTI_prog.o: ../MCAL/EXTI/EXTI_prog.c \
+  ../MCAL/EXTI/EXTI_Init.h ../MCAL/EXTI/../../LIB/BIT_MATH.h \
+  ../MCAL/EXTI/../../LIB/STD_TYPES.h ../MCAL/EXTI/../DIO/DIO.h
+
+../MCAL/EXTI/EXTI_Init.h:
+
+../MCAL/EXTI/../../LIB/BIT_MATH.h:
+
+../MCAL/EXTI/../../LIB/STD_TYPES.h:
+
+../MCAL/EXTI/../DIO/DIO.h:
